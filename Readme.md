@@ -1,8 +1,8 @@
-# Chuleta actualizada: Reglamento del Servicio de Aficionados a las Radiocomunicaciones (Chile)
+# Reglamento del Servicio de Aficionados a las Radiocomunicaciones (Chile)
 
 **Revisada el 14-nov-2026** contra el texto consolidado del D.S. 523 (versión BCN vigente desde el 21-jun-2013), el banco de preguntas oficial actualizado al 6-dic-2020 y la página de Subtel (actualizada el 4-nov-2026).
 
-> **Antes de estudiar:** esta versión corrige varios errores de mi chuleta anterior, que se basaba en el banco de 2007. Si usaste ese material o apuntes viejos, mira la sección 12.
+
 
 ---
 
