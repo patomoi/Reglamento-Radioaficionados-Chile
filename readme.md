@@ -1,6 +1,6 @@
 # Reglamento del Servicio de Aficionados a las Radiocomunicaciones (Chile)
 
-**Chuleta de estudio para el examen de Subtel**
+**Chuleta de estudio para el examen de Subtel, disponible en PDF en esta misma pagina**
 
 > **Revisada el 14-nov-2026 y recotejada el 18-nov-2026** contra:
 > - el texto consolidado del D.S. 523 (BCN, última versión del 21-jun-2013, con las anotaciones del D.S. 213),
